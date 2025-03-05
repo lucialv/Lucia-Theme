@@ -1,0 +1,22 @@
+{
+  "name": "lucia-theme",
+  "displayName": "Lucia Theme",
+  "description": "A personalized version of the default dark theme with Tailwind-inspired colors.",
+  "version": "1.0.0",
+  "publisher": "lucialv",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lucia Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LuciaTheme.json"
+      }
+    ]
+  }
+}
