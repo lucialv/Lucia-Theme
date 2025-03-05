@@ -2,7 +2,7 @@
   "name": "lucia-theme",
   "displayName": "Lucia Theme for VS Code",
   "description": "A personalized version of the default dark theme with Tailwind-inspired colors.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "lucialv",
   "engines": {
     "vscode": "^1.80.0"
@@ -11,6 +11,7 @@
     "type": "git",
     "url": "https://github.com/lucialv/lucia-theme"
   },
+  "icon": "icon.png",
   "sponsor": {
   "url": "https://github.com/sponsors/lucialv"
   },
