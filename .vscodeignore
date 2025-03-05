@@ -1,0 +1,14 @@
+.vscode/
+.git/
+node_modules/
+*.ts
+*.tsx
+*.map
+*.log
+*.md~
+*.swp
+npm-debug.log*
+yarn-error.log
+.vscodeignore
+
+pics/

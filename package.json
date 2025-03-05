@@ -11,6 +11,9 @@
     "type": "git",
     "url": "https://github.com/lucialv/lucia-theme"
   },
+  "sponsor": {
+  "url": "https://github.com/sponsors/lucialv"
+  },
   "categories": [
     "Themes"
   ],
