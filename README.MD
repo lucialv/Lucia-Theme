@@ -14,19 +14,19 @@
 Here’s a preview of **Lucia Theme** applied to different file types:
 
 ### ✨ JavaScript
-![JavaScript Preview](./pics/js.png)
+![JavaScript Preview](https://github.com/lucialv/Lucia-Theme/blob/main/pics/js.png?raw=true)
 
 ### ✨ HTML
-![HTML Preview](./pics/html.png)
+![HTML Preview](https://github.com/lucialv/Lucia-Theme/blob/main/pics/html.png?raw=true)
 
 ### ✨ CSS
-![CSS Preview](./pics/css.png)
+![CSS Preview](https://github.com/lucialv/Lucia-Theme/blob/main/pics/css.png?raw=true)
 
 ### ✨ Python
-![Python Preview](./pics/py.png)
+![Python Preview](https://github.com/lucialv/Lucia-Theme/blob/main/pics/py.png?raw=true)
 
 ### ✨ JSON
-![JSON Preview](./pics/json.png)
+![JSON Preview](https://github.com/lucialv/Lucia-Theme/blob/main/pics/json.png?raw=true)
 
 ## 🌈 Activating the Theme
 
