@@ -1,6 +1,6 @@
 {
   "name": "lucia-theme",
-  "displayName": "Lucia Theme",
+  "displayName": "Lucia Theme for VS Code",
   "description": "A personalized version of the default dark theme with Tailwind-inspired colors.",
   "version": "1.0.0",
   "publisher": "lucialv",
